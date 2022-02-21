@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Georges
 - 👀 I’m addicted to programming
-- 🌱 I’m currently working as a back-end developer
+- 🌱 I’m currently working as a software engineer
 - 💞️ Golang and Python are the languages of my choice
 
 <!---
