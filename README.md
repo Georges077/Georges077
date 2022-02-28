@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Georges
+- 👋 Hi, I’m Giorgi
 - 👀 I’m addicted to programming
 - 🌱 I’m currently working as a software engineer
 - 💞️ Golang and Python are the languages of my choice
